@@ -1,0 +1,33 @@
+{
+  "url": "https://david-dicioco.github.io/",
+  "name": "David Dicioco",
+  "title1": "Quality Assurance Engineer",
+  "title2": "Software Developer",
+  "email": "david.dicioco@gmail.com",
+  
+  "linkedin": "https://www.linkedin.com/in/david-dicioco-904a0724/",
+  "github": "https://github.com/david-dicioco",
+  "resumeDate": "12-26-2020",
+  
+  "personalProject_CypressAutomation_Description": "Automated test cases verify this website and personal projects are stable, functional, and have the correct and latest information.",
+  "personalProject_StockTrackerAutomation_Description": "Project automatically tracks current stock of newly released video game consoles. Major retailers it tracks includes Amazon and BestBuy.",
+  "personalProject_WeatherApp_Description": "Enter any city from the world and see it's forecast.",
+  
+  "personalProject_CypressAutomation_GithubLink": "https://github.com/david-dicioco/WeatherApp",
+  "personalProject_StockTrackerAutomation_GithubLink": "https://github.com/david-dicioco/ConsoleStockTracker",
+  "personalProject_WeatherApp_GithubLink": "https://github.com/david-dicioco/PersonalWebsite_TestAutomation_Cypress",
+  
+
+  "getInTouchTitle": "Get In Touch",
+  "mobilePhoneNumber": "647-629-2991",
+
+  "personalProject_WeatherApp_City1": "toronto",
+  "personalProject_WeatherApp_City2": "chicago",
+  "personalProject_WeatherApp_SymbolsInput": "!@#$%",
+  "personalProject_WeatherApp_NumbersInput": "123123",
+  "personalProject_WeatherApp_CombinationInput": "!@#!#@123123asdasdASDASD",
+
+  "personalProject_cypressAutomation_href": "images/gifs/CypressAutomation.mp4",
+  "personalProject_StockTrackerAutomation_href": "images/gifs/TestVideo.mp4",
+  "personalProject_WeatherApp_href": "projects\\WeatherApp\\index.html"
+}
